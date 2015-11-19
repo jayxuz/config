@@ -1,2 +1,2 @@
 # config
-some config  I often use
+常用的配置文件
